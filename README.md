@@ -5,6 +5,7 @@ Meal Plan Analysis using Python to explore the relationship between dietary patt
 To analyze how meal composition, nutrient intake, and timing impact blood glucose levels and identify patterns that can support effective dietary planning and better health outcomes.
 
 ## Dataset
+👉 [View Dataset](./dataset)
 
 ## ❓ Questions
 - How do different meal types impact blood glucose levels?
@@ -20,8 +21,8 @@ To analyze how meal composition, nutrient intake, and timing impact blood glucos
 - Visualized trends using Matplotlib and Seaborn to analyze glucose variation across meals and time.
 - Identified correlations and patterns between dietary factors and blood sugar response.
 
-## PowerPoint Presentation or Dashboard
-Link to be added later
+## Jupyter Notebook
+👉 [View Notebook](./Meal_Plan_Analysis.ipynb)
 
 ## 🔍 Project Insights
 - High-carbohydrate meals showed a strong correlation with glucose spikes, making them a key driver of variation.
